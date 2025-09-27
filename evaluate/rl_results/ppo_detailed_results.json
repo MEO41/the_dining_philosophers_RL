@@ -1,0 +1,1202 @@
+[
+  {
+    "eating_counts": [
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    "total_eating_events": "2",
+    "eating_variance": 0.24000000000000005,
+    "fairness": 0.8064516129032259,
+    "episode_reward": -3702.634931331101,
+    "episode_length": 411,
+    "deadlock_steps": 0,
+    "efficiency": 0.004866180048661801,
+    "info": {
+      "eating_counts": "[0 1 1 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.        0.4900005 0.        0.        0.       ]",
+      "fork_grips": "[[0.         0.        ]\n [0.34989384 0.36489487]\n [0.         0.        ]\n [0.         0.        ]\n [0.         0.        ]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.411
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -755.0325260172074,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.06544396 0.03736516]\n [0.08610223 0.04967952]\n [0.06156521 0.04447267]\n [0.06203151 0.04518562]\n [0.06309035 0.05802625]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -813.0753072338955,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.02668889 0.03829656]\n [0.04176938 0.03082678]\n [0.06151438 0.0523341 ]\n [0.04586791 0.06662358]\n [0.06305629 0.05242576]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -736.1359713965246,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03307699 0.0214638 ]\n [0.05370631 0.0364316 ]\n [0.03889908 0.06892798]\n [0.04520613 0.05730435]\n [0.0415695  0.02858647]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -778.5034068764958,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04157031 0.05258864]\n [0.06816097 0.04909739]\n [0.0695608  0.04496231]\n [0.06471196 0.05589313]\n [0.05265466 0.05381151]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -806.0585421113079,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.02435616 0.03141206]\n [0.05775974 0.04746173]\n [0.06104362 0.05175897]\n [0.07502368 0.03476523]\n [0.07025522 0.04106602]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -763.9425556222731,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.0389884  0.04415686]\n [0.07414827 0.04553813]\n [0.06531115 0.07781894]\n [0.07087769 0.06906543]\n [0.08663253 0.03095562]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -755.454830625041,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04385393 0.05158757]\n [0.05087349 0.05438825]\n [0.06218036 0.04510492]\n [0.05574165 0.0630516 ]\n [0.07136824 0.01316976]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -740.9292205588248,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.05362495 0.03742724]\n [0.02900481 0.04660898]\n [0.04845149 0.04459725]\n [0.05335169 0.0640027 ]\n [0.06468617 0.01544837]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -746.4898772182928,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04735687 0.06777318]\n [0.05100997 0.04139503]\n [0.06737655 0.04870489]\n [0.06319112 0.07152703]\n [0.06322631 0.04227288]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -782.7956341736559,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03455415 0.03536867]\n [0.03344408 0.04193429]\n [0.05989541 0.05860554]\n [0.06709641 0.04881713]\n [0.06589989 0.03311069]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -759.6356927932989,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03100528 0.04836987]\n [0.06697667 0.0456598 ]\n [0.05843597 0.06250542]\n [0.03254471 0.08336771]\n [0.06382827 0.03214977]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -776.4704524770591,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.02201424 0.06014258]\n [0.05242426 0.05451114]\n [0.05491104 0.06517229]\n [0.05887499 0.06659773]\n [0.07409129 0.05944972]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -781.4586051726901,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04489056 0.03244939]\n [0.06699834 0.05995753]\n [0.05303201 0.07319155]\n [0.07533941 0.05161077]\n [0.08133606 0.01932533]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -788.6411383362072,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.06566999 0.05418281]\n [0.05449069 0.05489856]\n [0.07539928 0.05846002]\n [0.03959877 0.04863818]\n [0.05417776 0.05443951]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -758.743673923703,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.01778408 0.02641136]\n [0.06221474 0.04829774]\n [0.06457505 0.0408611 ]\n [0.06513804 0.05133121]\n [0.07631347 0.02532532]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000003,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -1974.7396274151574,
+    "episode_length": 204,
+    "deadlock_steps": 0,
+    "efficiency": 0.004901960784313725,
+    "info": {
+      "eating_counts": "[0 0 0 0 1]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.        0.        0.        0.        0.4900005]",
+      "fork_grips": "[[0.         0.        ]\n [0.         0.        ]\n [0.         0.        ]\n [0.         0.        ]\n [0.27033204 0.09344438]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.204
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -755.037717172188,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.05658935 0.04573998]\n [0.0511219  0.07459443]\n [0.03121451 0.07495857]\n [0.06813189 0.04092542]\n [0.086184   0.00992005]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -1465.869358040042,
+    "episode_length": 163,
+    "deadlock_steps": 0,
+    "efficiency": 0.006134969325153374,
+    "info": {
+      "eating_counts": "[0 0 1 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.        0.        0.4900005 0.        0.       ]",
+      "fork_grips": "[[0.         0.        ]\n [0.         0.        ]\n [0.29856995 0.36737892]\n [0.         0.        ]\n [0.         0.        ]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.163
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -714.3954559325872,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03178543 0.04461475]\n [0.07323175 0.06420884]\n [0.07537757 0.07739305]\n [0.06383419 0.07176901]\n [0.05877698 0.00773728]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -757.5632944298345,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03036334 0.04214908]\n [0.02808448 0.04436498]\n [0.06005042 0.04341629]\n [0.04941638 0.08202563]\n [0.08750792 0.03076798]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -787.6629772933818,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.05704175 0.04394368]\n [0.06854071 0.06274948]\n [0.06467902 0.02273257]\n [0.04224984 0.08184937]\n [0.08049998 0.02838877]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -754.4159644032429,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03333094 0.04088856]\n [0.04586928 0.0581315 ]\n [0.04604368 0.04423695]\n [0.0618403  0.04805528]\n [0.06291052 0.04157011]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -801.2813362637298,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.0276427  0.05765937]\n [0.07261409 0.0425877 ]\n [0.03797399 0.05460821]\n [0.05735018 0.01981883]\n [0.06450047 0.04795508]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -722.0021334812867,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04453532 0.06690382]\n [0.06857133 0.04379484]\n [0.04332569 0.07391649]\n [0.05937144 0.0436889 ]\n [0.05601011 0.04903459]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -750.5398863402918,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03629747 0.06126029]\n [0.0538484  0.03577706]\n [0.06766631 0.06445502]\n [0.06603385 0.03986652]\n [0.06775513 0.02141755]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -717.9526363297348,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04936079 0.05031244]\n [0.03658881 0.05130773]\n [0.05399863 0.0522504 ]\n [0.05953261 0.05055252]\n [0.0334137  0.02498431]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -811.408380109193,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04071749 0.05370003]\n [0.06182051 0.04909714]\n [0.05431589 0.08656573]\n [0.07983059 0.04547216]\n [0.03494339 0.02291789]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -749.026317026633,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.02385763 0.0441204 ]\n [0.05913252 0.06413222]\n [0.04774214 0.02443713]\n [0.05338869 0.06241724]\n [0.08794509 0.04737428]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -771.9271191959803,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.05367795 0.06822065]\n [0.05342807 0.02835108]\n [0.04801318 0.05730953]\n [0.0622671  0.05946218]\n [0.083769   0.03082946]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -730.6986911796816,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04373186 0.04972686]\n [0.05971124 0.05293152]\n [0.0746301  0.04902155]\n [0.04801354 0.05865708]\n [0.04895075 0.06494159]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -725.0614028041771,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.0434239  0.05319093]\n [0.05097406 0.04307378]\n [0.06021601 0.03461035]\n [0.02955849 0.07302167]\n [0.06944997 0.02173095]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -759.4531824122516,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.06886261 0.02228962]\n [0.07168844 0.05363691]\n [0.06494603 0.0745019 ]\n [0.04780895 0.0744734 ]\n [0.08157168 0.08580367]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -773.8730423713623,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03473148 0.02058215]\n [0.02256176 0.01972398]\n [0.05493635 0.06771849]\n [0.0652081  0.07231876]\n [0.07547963 0.04599085]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      6
+    ],
+    "total_eating_events": "6",
+    "eating_variance": 5.76,
+    "fairness": 0.14792899408284024,
+    "episode_reward": -5851.261952509997,
+    "episode_length": 550,
+    "deadlock_steps": 0,
+    "efficiency": 0.01090909090909091,
+    "info": {
+      "eating_counts": "[0 0 0 0 6]",
+      "hunger_levels": "[1.         1.         1.         1.         0.98304246]",
+      "energy_levels": "[0.        0.        0.        0.        0.4900005]",
+      "fork_grips": "[[0.         0.        ]\n [0.         0.        ]\n [0.         0.        ]\n [0.         0.        ]\n [0.15035418 0.29718944]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.55
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -738.7373289483805,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04055494 0.06301528]\n [0.05075307 0.05209249]\n [0.02540353 0.07766511]\n [0.05245237 0.04159017]\n [0.06551982 0.03657867]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -760.5695850898276,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.05876794 0.05065626]\n [0.03661224 0.04594133]\n [0.05368711 0.05827799]\n [0.041321   0.06353522]\n [0.02729679 0.00941052]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      10,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "10",
+    "eating_variance": 16.0,
+    "fairness": 0.058823529411764705,
+    "episode_reward": -7591.584355443024,
+    "episode_length": 704,
+    "deadlock_steps": 0,
+    "efficiency": 0.014204545454545454,
+    "info": {
+      "eating_counts": "[ 0 10  0  0  0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.        0.4900005 0.        0.        0.       ]",
+      "fork_grips": "[[0.         0.        ]\n [0.21557814 0.25723588]\n [0.         0.        ]\n [0.         0.        ]\n [0.         0.        ]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.704
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -769.0894889241367,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.05636901 0.03279025]\n [0.03717978 0.05802349]\n [0.03829272 0.05403304]\n [0.05572431 0.05996529]\n [0.06723928 0.04186368]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -735.0146614161135,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.01893843 0.04906923]\n [0.05393413 0.03168077]\n [0.04850336 0.05828246]\n [0.06135735 0.06214026]\n [0.07870883 0.07654418]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      14,
+      0,
+      0
+    ],
+    "total_eating_events": "14",
+    "eating_variance": 31.359999999999996,
+    "fairness": 0.030902348578491966,
+    "episode_reward": -10360.233805350459,
+    "episode_length": 895,
+    "deadlock_steps": 0,
+    "efficiency": 0.01564245810055866,
+    "info": {
+      "eating_counts": "[ 0  0 14  0  0]",
+      "hunger_levels": "[1.         1.         0.98681844 1.         1.        ]",
+      "energy_levels": "[0.        0.        0.4900005 0.        0.       ]",
+      "fork_grips": "[[0.         0.        ]\n [0.         0.        ]\n [0.3336023  0.12345976]\n [0.         0.        ]\n [0.         0.        ]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.895
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -774.4394606132566,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.0292684  0.04074682]\n [0.05615287 0.05547671]\n [0.03325522 0.04080725]\n [0.06037723 0.05216197]\n [0.07638242 0.01464667]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -747.447606556226,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03986978 0.05136334]\n [0.05224704 0.05795478]\n [0.07127542 0.03878216]\n [0.04207096 0.06766429]\n [0.03282199 0.05796926]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -726.8942518266776,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.02941108 0.03455371]\n [0.08444915 0.05335802]\n [0.04464756 0.06918204]\n [0.05292775 0.06760482]\n [0.06462418 0.02605142]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -782.3580148019253,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03868368 0.04981204]\n [0.06320353 0.0509331 ]\n [0.03099435 0.05329666]\n [0.07438726 0.04299515]\n [0.01508861 0.02995692]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -805.0094643767567,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.06678263 0.03652021]\n [0.05530604 0.0581052 ]\n [0.06244981 0.06008674]\n [0.03161644 0.06187083]\n [0.01927255 0.03112734]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -774.7243941730118,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.05222403 0.0771437 ]\n [0.0585039  0.04736002]\n [0.07126441 0.04832014]\n [0.04814767 0.06763157]\n [0.0680399  0.04345973]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -765.7196577003474,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.04611386 0.0456305 ]\n [0.07208551 0.04922038]\n [0.06437017 0.09307531]\n [0.04712612 0.0425239 ]\n [0.04427004 0.03563371]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -770.4084455420092,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.02476223 0.05166928]\n [0.03979078 0.07066272]\n [0.04052705 0.03496921]\n [0.05321004 0.05507319]\n [0.02921732 0.05608833]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -799.6489847822572,
+    "episode_length": 91,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "hunger_levels": "[1. 1. 1. 1. 1.]",
+      "energy_levels": "[0.09000066 0.09000066 0.09000066 0.09000066 0.09000066]",
+      "fork_grips": "[[0.03877224 0.02371424]\n [0.06691984 0.04879057]\n [0.04758395 0.08679114]\n [0.05872534 0.02956863]\n [0.02500672 0.05296565]]",
+      "eating_progress": "[0. 0. 0. 0. 0.]",
+      "step_progress": 0.091
+    }
+  }
+]

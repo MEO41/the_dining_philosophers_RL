@@ -1,0 +1,1102 @@
+[
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2379.1000000000445,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 0 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2396.0880000000097,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[1 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 0 2 0]",
+      "fork_owners": "[0 1 0 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2389.100000000045,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 0 0 0]",
+      "fork_owners": "[0 2 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2371.900000000044,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2378.1000000000445,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 1 0]",
+      "fork_owners": "[5 1 2 4 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2380.6600000000085,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[0 1 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2388.100000000045,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 2 0 1 0]",
+      "fork_owners": "[0 1 2 4 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2378.5000000000446,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 2 0 0 0]",
+      "fork_owners": "[0 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2382.2000000000444,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 0 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2369.000000000044,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 2 0 0 0]",
+      "fork_owners": "[0 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2383.9000000000447,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2381.3000000000443,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[5 1 0 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2386.3000000000447,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 0 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2365.4000000000437,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2382.3000000000443,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 0 2 0]",
+      "fork_owners": "[0 1 0 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2382.9000000000447,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2389.100000000045,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 3 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2384.6000000000445,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2380.9000000000447,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 2 0 0]",
+      "fork_owners": "[0 2 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2388.204000000009,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[0 0 1 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 2 0 0 0]",
+      "fork_owners": "[0 1 2 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2379.8000000000443,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[3 0 0 0 0]",
+      "fork_owners": "[1 1 2 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2381.1000000000445,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 2 0]",
+      "fork_owners": "[0 1 0 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2374.100000000044,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 2 0 0]",
+      "fork_owners": "[1 1 2 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2385.6000000000445,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 2 0 0]",
+      "fork_owners": "[0 2 2 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2388.200000000045,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2389.600000000045,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2372.8000000000443,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 2 0]",
+      "fork_owners": "[0 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2390.088000000009,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[0 1 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 2 0]",
+      "fork_owners": "[5 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2392.040000000009,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[1 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 2 0]",
+      "fork_owners": "[5 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2376.500000000044,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[5 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2394.4360000000092,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[0 1 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 0 2 0]",
+      "fork_owners": "[0 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2383.7000000000444,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[1 0 0 0 0]",
+      "fork_owners": "[1 1 0 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2384.6000000000445,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 0 0 0]",
+      "fork_owners": "[5 1 0 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2381.4000000000447,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 2 0]",
+      "fork_owners": "[0 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2378.900000000044,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2389.360000000009,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[1 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 2 0]",
+      "fork_owners": "[0 1 0 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2386.6920000000086,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[1 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 0 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2384.4000000000447,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 2 0 0]",
+      "fork_owners": "[0 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2372.3000000000443,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 2 0 0]",
+      "fork_owners": "[0 2 0 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2381.1000000000445,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 2 0 0]",
+      "fork_owners": "[0 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2381.6600000000085,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[1 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2377.7000000000444,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[1 1 0 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2381.5000000000446,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 2 0 2 0]",
+      "fork_owners": "[0 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000003,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2387.320000000009,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[0 0 0 1 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[5 1 2 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2383.4000000000447,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[1 1 2 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2373.8000000000443,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[0 0 0 0 0]",
+      "fork_owners": "[0 1 0 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2390.4000000000447,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[0 1 0 3 5]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2386.5000000000446,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 0 0]",
+      "fork_owners": "[1 1 0 3 0]"
+    }
+  },
+  {
+    "eating_counts": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "1",
+    "eating_variance": 0.16000000000000006,
+    "fairness": 0.8620689655172413,
+    "episode_reward": -2397.0040000000095,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.001,
+    "info": {
+      "eating_counts": "[1 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 2 0]",
+      "fork_owners": "[5 1 2 3 4]"
+    }
+  },
+  {
+    "eating_counts": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "total_eating_events": "0",
+    "eating_variance": 0.0,
+    "fairness": 1.0,
+    "episode_reward": -2381.1000000000445,
+    "episode_length": 1000,
+    "deadlock_steps": 0,
+    "efficiency": 0.0,
+    "info": {
+      "eating_counts": "[0 0 0 0 0]",
+      "deadlock_steps": 0,
+      "philosopher_states": "[2 0 0 2 0]",
+      "fork_owners": "[0 1 0 3 4]"
+    }
+  }
+]
